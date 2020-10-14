@@ -1,0 +1,24 @@
+{
+  "name": "yatusan",
+  "version": "1.0.0",
+  "description": "Server side for Human Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs",
+    "Server-side"
+  ],
+  "author": "Yatusan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "monk": "^7.1.2",
+    "node-time-ago": "^1.0.0",
+    "nodemailer": "^6.4.13"
+  }
+}
